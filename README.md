@@ -2,11 +2,10 @@
 
 Hi there! I’m **Luan Le Minh Nguyen**, an early-career AI researcher focus on exploring how deep learning can transform **medical imaging**.
 
-After transitioning from a business background, I’ve been deeply involved in **AI research for clinical applications**,  
+After transitioning from a business background, I’ve been deeply involved in **AI Research for clinical applications**,  
 currently learning at **AI Vietnam** and working as AI Researcher with **Pathology AI Lab**.
 
-🎯 Goal: Bridging AI research and real-world medical impact, building AI systems that can **understand medical images** and **support clinical diagnosis**  
-through deep learning and multimodal understanding.
+🎯 Goal: Bridging AI research and real-world medical impact, building AI systems that can **understand medical images** and **support clinical diagnosis**  through deep learning and multimodal understanding.
 
 💡 **Research Interests**
 - Computer Vision in Healthcare (Segmentation, VQA, Image Classification)  
